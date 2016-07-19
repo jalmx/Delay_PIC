@@ -7,6 +7,6 @@ Proyecto hecho en java el cual te genera una sentencia de retardo para microcont
 - **UI** — interfaz gráfica 
 
 
-<p align="center"><img width="90%" vspace="20" src="https://github.com/jalmx89/Delay_PIC/blob/master/1.PNG"></p>
+<p align="center"><img width="50%" vspace="20" src="https://github.com/jalmx89/Delay_PIC/blob/master/1.PNG"></p>
 
-<p align="center"><img width="90%" vspace="20" src="https://github.com/jalmx89/Delay_PIC/blob/master/2.PNG"></p>
+<p align="center"><img width="50%" vspace="20" src="https://github.com/jalmx89/Delay_PIC/blob/master/2.PNG"></p>
